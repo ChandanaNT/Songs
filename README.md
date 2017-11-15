@@ -1,3 +1,3 @@
 # Songs
 
-Songs generated using deep learning
+Songs generated using Recurrent Neural Networks.
